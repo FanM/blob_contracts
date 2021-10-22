@@ -39,6 +39,6 @@ module.exports = {
     artifacts: "./build",
   },
   mocha: {
-    timeout: 30000,
+    timeout: 40000,
   },
 };

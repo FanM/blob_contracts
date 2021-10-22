@@ -12,7 +12,7 @@ Though it's compatible with Truffle, we recommend you use [hardhat](https://hard
 
 ## Deploy
 
-Local: `npx hardhat run scripts/deploy-blob.js --network localhost`
+Local: `npx hardhat run scripts/deploy-blob.js --network localhost`  
 Remote: `npx hardhat run scripts/deploy-blob.js --network YOUR_NETWORK`
 
 ## Demo
